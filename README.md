@@ -55,7 +55,7 @@ module.exports = defineConfig({
 ## 📋Tests
 
 Run `npx cypress open` to open Cypress.
-Run `npx cypress open` to run the test in headless mode
+Run `npx cypress run` to run the test in headless mode
 
 ## ❤️Support this project
 
