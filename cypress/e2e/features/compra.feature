@@ -5,7 +5,7 @@ Feature: Compra de produtos em eCommerce Saucedemo
     Quero realizar a compra de camisa vermelha;
     Quero realizar a compra de bolsa;
     Quero ordenar os valores do menor para o maior e que seja comprado os dois produtos menores;
-    Para obter os produtos escolhidos
+    Para obter os produtos escolhidos.
 
     Scenario: Compra de camisa vermelha
         Given que estou logado no sistema
